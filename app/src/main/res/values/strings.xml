@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Beatriz Costa Marciel Sousa Int SI3ANBUA</string>
+    <string name="label_nome">Qual seu nome?</string>
+    <string name="label_interesse">Qual seu assunto de interesse?</string>
+    <string name="label_botao">OK</string>
+    <string name="label_bemvindo">Bem Vindo(a)</string>
+    <string name="label_listalivros">Eis uma lista de livros:</string>
+    <string name="label_livroTecnico1">Concrete Mathematics</string>
+    <string name="label_livroTecnico2">The C++ Programming Language</string>
+    <string name="label_livroLiteratura1">Capitães da Areia</string>
+    <string name="label_livroliteratura2">Morro dos Ventos Uivantes</string>
+</resources>

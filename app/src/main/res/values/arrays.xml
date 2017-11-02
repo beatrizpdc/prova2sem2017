@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_assuntos">
+        <item>Técnico</item>
+        <item>Literatura</item>
+    </string-array>
+
+    <string-array name="array_livros_tecnicos">
+        <item>Concrete Mathematics</item>
+        <item>The C++ Programming Language</item>
+    </string-array>
+
+    <string-array name="array_livros_literatura">
+        <item>Capitães da Areia</item>
+        <item>Morro dos Ventos Uivantes</item>
+    </string-array>
+
+</resources>
